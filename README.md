@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&fontColor=FFFFFF&height=200&section=header&text=JaeWoong%20Jung&fontSize=40&fontAlign=25&fontAlignY=30&animation=fadeIn&rotate=-13)
 <div align="center">
   
-  ### Hi there👋 <br> I'm JaeWoong Jung, a growing developer ✨
+  ### Hi👋 <br> I'm JaeWoong Jung, a web developer ✨
   
   <br>
   
@@ -25,13 +25,12 @@
   
   ## Introduce 🙎‍♂️
   
-  https://jjw.oopy.io/
+  Portfolio : https://jjw.oopy.io/
+  E-Mail : wjdwodnd93@gmail.com
 
   <br><br>
 
   ## 🌱
-
-  <img src="https://github-readme-stats.vercel.app/api?username=jjw0609&theme=github_dark&show_icons=true&include_all_commits=true"/>
 
 </div>
 
