@@ -23,14 +23,12 @@
  
   <br><br>
   
-  ## Introduce 🙎‍♂️
+  ## 🙎‍Introduce 🌱
   
-  Portfolio : https://jjw.oopy.io/
-  E-Mail : wjdwodnd93@gmail.com
+  Portfolio : https://jjw.oopy.io/ <br>
+  E-Mail : wjdwodnd93@gmail.com <br>
 
   <br><br>
-
-  ## 🌱
 
 </div>
 
