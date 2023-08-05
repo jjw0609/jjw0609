@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black">
 </a>
 
-<br>
+<br><br>
 
 ## Once I've used 📚
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
