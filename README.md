@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&fontColor=FFFFFF&height=200&section=header&text=JaeWoong%20Jung&fontSize=40&fontAlign=25&fontAlignY=30&animation=fadeIn&rotate=-13)
 <div align="center">
   
   ### Hi👋 <br> I'm JaeWoong Jung, a web developer ✨
@@ -30,6 +29,8 @@
   E-Mail : wjdwodnd93@gmail.com <br>
 
   <br><br>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 </div>
 
