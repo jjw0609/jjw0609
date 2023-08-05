@@ -26,6 +26,6 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/java android-3DDC84?style=flat-square&logo=android&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>&nbsp;
 
 
