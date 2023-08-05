@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+JaeWoong's+github!;Second+line+of+text)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -30,7 +31,6 @@
 
   <br><br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjw0609&layout=compact)
 
 </div>
 
