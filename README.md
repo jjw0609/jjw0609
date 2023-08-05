@@ -2,7 +2,7 @@
 
 ### Hi👋 <br> I'm JaeWoong Jung, a web developer ✨
 
-  
+<br>
 
 ## DEV's log 🌱
 <a href="https://www.linkedin.com/in/jaewoong-jung-9714261b7/" rel="nofollow" class="">
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black">
 </a>
 
-
+<br>
 
   
 ## Once I've used 📚
