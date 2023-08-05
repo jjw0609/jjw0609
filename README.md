@@ -5,7 +5,7 @@
 
 ## DEV's log 🌱
 <a href="https://www.linkedin.com/in/jaewoong-jung-9714261b7/" rel="nofollow" class="">
-<img src="https://img.shields.io/badge/LinkedInNotion-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/jaewoong-jung-9714261b7/" rel="nofollow"><img src="https://camo.githubusercontent.com/2fb0180f35e7559bb7f50bb06626c123af8be41d6be2561128cf3a8815a52cd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f2545412542312542342d2545432539442542342d3236373731363134622f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jaewoong-jung-9714261b7/" style="max-width: 100%;"></a>
 <a href="https://jjw.oopy.io" rel="nofollow" class="">
