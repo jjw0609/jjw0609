@@ -1,6 +1,7 @@
 
 
 ### Hi👋 <br> I'm JaeWoong Jung, a web developer ✨
+
   
 
 ## DEV's log 🌱
@@ -10,6 +11,7 @@
 <a href="https://jjw.oopy.io" rel="nofollow" class="">
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black">
 </a>
+
 
 
   
