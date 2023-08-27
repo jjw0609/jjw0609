@@ -1,7 +1,7 @@
 
 
 ### Hi👋 <br> I'm JaeWoong Jung, a web developer ✨
-<img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e">
+<img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e" width="50" height="50">
 <br>
 
 ## DEV's log 🌱
