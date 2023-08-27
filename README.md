@@ -1,6 +1,6 @@
 
 
-### Hi👋 <br> I'm JaeWoong Jung, a web developer <img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e" width="20" height="20">
+### Hi👋 <br> I'm JaeWoong Jung, a web developer <img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e" width="30" height="30">
 <br>
 
 ## DEV's log 🌱
