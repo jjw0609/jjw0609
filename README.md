@@ -1,7 +1,7 @@
 
 
 ### Hi👋 <br> I'm JaeWoong Jung, a web developer ✨
-
+<img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e">
 <br>
 
 ## DEV's log 🌱
@@ -28,6 +28,5 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>&nbsp;
-![frog-wow-scroll](https://github.com/jjw0609/jjw0609/assets/58880985/38a0cf9e-2b62-486f-8638-afcf437a3b12)
 
 
