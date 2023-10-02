@@ -1,6 +1,6 @@
 
 ## 안녕하세요👋
-노력하는 웹 개발자 정재웅 입니다! <img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e" width="30" height="30">
+꾸준히 노력하는 웹 개발자 정재웅 입니다! <img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e" width="30" height="30">
 <br><br>
 
 ## DEV's log 🌱
