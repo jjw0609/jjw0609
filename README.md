@@ -1,7 +1,7 @@
 
 ## 안녕하세요👋
 노력하는 웹 개발자 정재웅 입니다! <img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e" width="30" height="30">
-<br>
+<br><br>
 
 ## DEV's log 🌱
 <a href="https://www.linkedin.com/in/jaewoong-jung-9714261b7/" rel="nofollow" class="">
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black">
 </a>
 
-<br>
+<br><br>
 
 ## Once I've used 📚
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
