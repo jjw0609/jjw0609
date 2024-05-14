@@ -1,3 +1,5 @@
+<div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 ## 안녕하세요👋
 꾸준히 노력하는 웹 개발자 정재웅 입니다! <img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e" width="30" height="30">
@@ -28,9 +30,6 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>&nbsp;
 
-
-<div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 
