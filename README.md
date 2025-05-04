@@ -33,7 +33,7 @@
 <br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjw0609&theme=material-palenight&count_private=true&size_weight=0.5&count_weight=0.5)
-![Jung JaeWoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjw0609&theme=dark&show_icons=true)
+![Jung JaeWoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjw0609&theme=dracula&show_icons=true)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjw0609&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
