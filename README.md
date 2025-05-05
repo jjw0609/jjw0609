@@ -33,10 +33,10 @@
 <br><br>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjw0609&langs_count=5&theme=material-palenight&count_private=true" width=40% height=300 />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjw0609&langs_count=5&theme=material-palenight&count_private=true" width=45% height=300 />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jjw0609&theme=dracula&show_icons=true" width=60% />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jjw0609&theme=dracula&show_icons=true" width=45% />
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
