@@ -32,15 +32,28 @@
 
 <br><br>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjw0609&langs_count=5&theme=material-palenight&count_private=true" width=45% height=300 />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jjw0609&theme=dracula&show_icons=true" width=45% />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjw0609&theme=nord_dark" width=66.5% />
 </a>
 
+<br>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjw0609&theme=nord_dark" width=33% />
+</a>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjw0609&theme=nord_dark" width=33% />
+</a>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jjw0609&theme=nord_dark&utcOffset=8" width=33% />
+</a>
+
+<hr>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jjw0609&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jjw0609&theme=react&hide_border=true" width=100%/>
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
