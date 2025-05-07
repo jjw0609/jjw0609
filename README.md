@@ -62,6 +62,5 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jjw0609&theme=react&hide_border=true" width=100%/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 
