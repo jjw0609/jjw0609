@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white">
 <br>
@@ -33,7 +33,7 @@
 <br>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=subversion&logoColor=white"/>&nbsp;
 
 <br><br>
