@@ -38,6 +38,7 @@
 
 <br><br>
 
+## GitHub Stats 📊
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjw0609&theme=nord_dark" width=66.5% />
 </a>
@@ -61,6 +62,12 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jjw0609&theme=react&hide_border=true" width=100%/>
 </a>
+
+<br><br>
+
+## Baekjoon Stats 📊
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jjw_0609&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjw_0609)](https://solved.ac/jjw_0609/)
 
 </div>
 
